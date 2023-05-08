@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-4z(j6cus7l&5s7put%7_yw&yukw$(ml9c!+n1wcf-4=2tbojy7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['git.heroku.com/django-to-do-app-fq.git']
 
 
 # Application definition
